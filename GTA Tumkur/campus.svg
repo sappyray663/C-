@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b5bf9e"/><stop offset="1" stop-color="#d5cd9f"/></linearGradient>
+    <linearGradient id="ground" x2="0" y2="1"><stop stop-color="#667b53"/><stop offset="1" stop-color="#293b2c"/></linearGradient>
+    <linearGradient id="wall" x2=".6" y2="1"><stop stop-color="#edcf9f"/><stop offset="1" stop-color="#a8825c"/></linearGradient>
+    <linearGradient id="roof" x2="0" y2="1"><stop stop-color="#8f634d"/><stop offset="1" stop-color="#634539"/></linearGradient>
+  </defs>
+  <rect width="1440" height="520" fill="url(#sky)"/>
+  <circle cx="1052" cy="170" r="96" fill="#f3e5b7" opacity=".56"/>
+  <path d="M0 454 195 333l130 86 178-164 180 171 141-117 144 141 155-180 170 177 147-105v257H0Z" fill="#849274"/>
+  <path d="m0 490 230-109 179 110 169-160 154 175 162-123 161 125 174-154 211 115v248H0Z" fill="#637652" opacity=".79"/>
+  <path d="M0 522h1440v378H0Z" fill="url(#ground)"/>
+  <path d="m602 900 48-378h156l62 378Z" fill="#c2ac82" opacity=".8"/>
+  <g>
+    <path d="M596 484h27v116h-27zM822 484h27v116h-27z" fill="#d5bd91"/>
+    <path d="M588 470h269v19H588z" fill="#79553f"/>
+    <path d="M657 436h131v34H657z" fill="#e1cfaa"/>
+    <text x="722" y="459" fill="#55604b" font-family="monospace" font-size="21" font-weight="700" text-anchor="middle">SIT · TUMKUR</text>
+  </g>
+  <g fill="#e1cfaa" opacity=".35">
+    <path d="M0 588h450v9H0zM0 617h511v3H0zM934 598h506v8H934zM1003 627h437v4h-437z"/>
+  </g>
+  <g>
+    <path d="M126 433h228v139H126z" fill="#d0b38b"/><path d="M110 439 239 347l135 92Z" fill="url(#roof)"/><path d="M126 433h228v16H126z" fill="#8f6247"/>
+    <path d="M151 469h24v66h-24zM192 469h24v66h-24zM234 469h24v66h-24zM276 469h24v66h-24zM318 469h20v66h-20z" fill="#56695e"/>
+    <path d="M148 461h175v8H148z" fill="#e7d0ac" opacity=".8"/>
+  </g>
+  <g>
+    <path d="M804 416h288v181H804z" fill="url(#wall)"/><path d="M783 422 950 315l168 107Z" fill="url(#roof)"/><path d="M804 414h288v17H804z" fill="#976b4e"/>
+    <path d="M834 465h37v45h-37zM887 465h37v45h-37zM940 465h37v45h-37zM993 465h37v45h-37zM1046 465h26v45h-26z" fill="#71877a"/>
+    <path d="M834 521h37v48h-37zM887 521h37v48h-37zM940 514h37v83h-37zM993 521h37v48h-37zM1046 521h26v48h-26z" fill="#836a50"/>
+  </g>
+  <g fill="#334b36"><path d="M60 458h32v159H60z"/><path d="M22 477q54-142 107 0zM72 450q49-154 101 0z"/><path d="M396 462h25v144h-25z"/><path d="M366 484q42-111 84 0z"/><path d="M1130 454h30v173h-30z"/><path d="M1088 490q58-143 113 0zM1171 468q59-163 117 0z"/><path d="M1322 468h26v157h-26z"/><path d="M1289 486q46-120 94 0z"/></g>
+  <g fill="#d7bb8d" opacity=".75"><path d="M700 502h39v10h-39zM748 502h39v10h-39zM700 519h39v10h-39zM748 519h39v10h-39z"/></g>
+  <g fill="#82955e"><circle cx="483" cy="583" r="28"/><circle cx="535" cy="605" r="18"/><circle cx="879" cy="633" r="27"/><circle cx="1200" cy="601" r="33"/></g>
+  <g opacity=".4" fill="#e8d9ad"><path d="m614 780 69-232 16 4-50 228z"/><path d="m829 758-70-209 17-2 86 203z"/></g>
+  <rect width="1440" height="900" fill="#e7ddb7" opacity=".06"/>
+</svg>
