@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/saptashwaray/C++/patterns/pattern_1'
+relocations:     []
+...
